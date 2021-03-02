@@ -1,4 +1,4 @@
-package com.fc.exception;
+package com.yurencloud.hb.exception;
 
 public class ApiException extends RuntimeException {
 

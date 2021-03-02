@@ -1,6 +1,6 @@
 {
-  entry: "src/index.js",
-  "": {
+  "entry": "src/index.js",
+  "env": {
     "development": {
       "extraBabelPlugins": [
         "dva-hmr",
@@ -41,7 +41,7 @@
   },
   "proxy": {
     "/api": {
-      "target": "http://www.yurencloud.com:8080/",
+      "target": "http://localhost:8080/",
       "changeOrigin": true,
       "pathRewrite": { "^/api" : "" }
      }

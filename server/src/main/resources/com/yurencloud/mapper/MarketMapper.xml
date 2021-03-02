@@ -4,7 +4,10 @@
   <sql id="add">
 
   </sql>
-  <insert id="insertKline" parameterType="lang.String">
-    INSERT INTO market_kline(kline) VALUES(#{kline,jdbcType=VARCHAR})
+  <insert id="insertKline" parameterType="com.yurencloud.model.MarketKline">
+    INSERT INTO market_kline(time, kline) VALUES(#{time}, #{kline})
+  </insert>
+  <insert id="insertHistoryKline" parameterType="com.yurencloud.model.MarketKline">
+    INSERT INTO market_kline(time, kline) VALUES(#{time}, #{kline})
   </insert>
 </mapper>

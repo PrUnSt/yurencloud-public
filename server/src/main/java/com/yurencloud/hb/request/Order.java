@@ -1,4 +1,4 @@
-package com.fc.request;
+package com.yurencloud.hb.request;
 
 import com.alibaba.fastjson.annotation.JSONField;
 

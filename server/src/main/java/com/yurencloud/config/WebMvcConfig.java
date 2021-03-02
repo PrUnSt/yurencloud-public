@@ -30,16 +30,16 @@ public class WebMvcConfig extends WebMvcConfigurerAdapter{
 //        registry.addViewController("/register/type").setViewName("web/register/type");
     }
 
-    @Override
-    public void addResourceHandlers(ResourceHandlerRegistry registry) {
-        registry.addResourceHandler("/upload/**").addResourceLocations("file:"+uploadpath);
-        super.addResourceHandlers(registry);
-    }
-
-    @Bean
-    public Function<String, String> removeParam() {
-        return param ->   ServletUriComponentsBuilder.fromCurrentRequest().replaceQueryParam(param).toUriString();
-    }
+//    @Override
+//    public void addResourceHandlers(ResourceHandlerRegistry registry) {
+//        registry.addResourceHandler("/upload/**").addResourceLocations("file:"+uploadpath);
+//        super.addResourceHandlers(registry);
+//    }
+//
+//    @Bean
+//    public Function<String, String> removeParam() {
+//        return param ->   ServletUriComponentsBuilder.fromCurrentRequest().replaceQueryParam(param).toUriString();
+//    }
 
 
 

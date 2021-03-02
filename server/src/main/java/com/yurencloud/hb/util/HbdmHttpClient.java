@@ -1,8 +1,8 @@
-package com.fc.util;
+package com.yurencloud.hb.util;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.fc.exception.HttpRequestException;
+import com.yurencloud.hb.exception.HttpRequestException;
 import okhttp3.*;
 import org.apache.commons.collections.MapUtils;
 

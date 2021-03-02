@@ -1,7 +1,7 @@
-package com.fc.api;
+package com.yurencloud.hb.api;
 
-import com.fc.request.Order;
-import com.fc.util.HbdmHttpClient;
+import com.yurencloud.hb.request.Order;
+import com.yurencloud.hb.util.HbdmHttpClient;
 import org.apache.commons.lang.StringUtils;
 import org.apache.http.HttpException;
 

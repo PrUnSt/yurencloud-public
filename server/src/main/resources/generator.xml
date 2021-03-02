@@ -18,7 +18,7 @@
 
         <!--数据库基本信息-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://localhost:3307/yurencloud?autoReconnect=true&amp;autoReconnectForPools=true&amp;useSSL=false"
+                        connectionURL="jdbc:mysql://localhost:3307/cloud?autoReconnect=true&amp;autoReconnectForPools=true&amp;useSSL=false"
                         userId="root"
                         password="secret">
         </jdbcConnection>

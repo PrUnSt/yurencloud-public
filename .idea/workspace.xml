@@ -2,34 +2,360 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812dfa62-c407-4532-be0a-b210280a102e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/client/.idea/workspace.xml" afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/004b8add8e944575d0a2b18dd8d12948.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/01e3b035e67e98810b05c53bca4321b7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/03678f978fb780a801188e3aa5c855bd.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/03738f8f8ede483cbf6b9990c2331b87.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/038987b2e6aedd34c4e9e24dcaeda309.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/047be21916035810146dadec1b4098ac.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/07b008990a47a1b2416a60f0d221aac3.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/094180c84fddef209bfa372c23bd81eb.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0ac16de67ae24eb56aa10cee078b9943.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0ace0cb752cff15e174e1b0005d98f7a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0c39c45c160a80ff415ac5cea8f890fd.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0c62d000195d7aa64acac8eba303d738.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0cb889a5af51955f909bcf0831090311.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0d0cbaeae247768d7af0c50629b5d5d5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0d4d804985043252831e81d950684517.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0e1b8937bdd466ad8f657cd2cc0efa93.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0e32e5992ef2644db2c176ea6cb1cd23.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0eafd4fda9472e3ff9b2bdb27f218d87.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0eebdc47548cf4be11434411566f1f37.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/0f21101356240bbb323a60ada10de112.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/10df99d0cb212918de1938809702945a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/115a5e4ca32324bcdac21989a88cb07f.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/115cb9e87b13aa0647f80824919fa881.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/13761907f3a7b053d5a3c469bff0b9eb.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/163ca42ee119f66faa306d3636e72ec2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/179678b6630730d760b5d70bb7546b4c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/17a8e557514825bbf2134a6aac8df27a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1973bcc6b811bc9e7553670ef78822d0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1974420d3a4e78fd04ce97f0e2828de3.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1ace86246b2206aef8addaa7e18e3330.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1b3f4c88dad96e58fadbb5bf1d653af5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1c3c715a0ae28586e5ab709933a6b5f9.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1c803ab968d9c46537c3f4f0434ee08b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1d9895051aec408cc2f07cddc920b96d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/1edb098b3a31492716e6649bb8f4f7fe.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/217f05cb837602cbde4128ed3ffc752c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2201a397329597913bf62be8dc891bf0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/250c209e26814ffb72b5d99c7cc9ffb6.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/25397d65247378ef9e692c1e4d82f876.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/275f5443890f45131fe8f4de41eb7a5e.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/278d74bfe351290db96923650b9b2154.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/28e8bb51c14dfeada65a6c4c92e17428.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/29dc3b7fba84a47f6b33418df9a8ddf7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2ac94b774a0b7434b7388fa3867d3ba8.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2c7de5b148e3defe56c875e5ca31951e.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2cb0f350107286762a2e9f442b8fd3ec.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2ce5d74d01819e70f5103ae3634d2ce2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2d585043153faf729b50263ff466959a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2d916b63b8c046776271b91dd27e7671.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2e8526aa6f2bfe73c42bd5f39a3d5536.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/2f40126f917f7c5565fcfbfdd1c4e6cb.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/308d5453f87b1db60a909037785a882b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/309e6277053736922f69373ed14609bb.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/30e4efb80e633541e60e05e7f929ef7b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/321905de028161ba9a2a46f674a3e8f1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/331088d250c1ddd5ea8a6de0ac93621c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/348f2a5f32eac13ee0eb4936730c160c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/3986c576b49ef1a5470efc7bd2eb2bcc.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/3a6b84bcd9e50d3d2f3717309dc1fe45.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/3dbd079485dafe93374f256281dd0e28.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/3edaa81df4f093963994c326ba3a0e0a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4542f27446e8100454d10b7a5403cfe0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/45be09734dbc875af4060ede4df842ab.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/46b26c1e755b5ad14ccadce5987f4db5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/47f4014377d3dc56a6c74aa718459421.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/48017be90a4a481964b2026c5d6c877b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/48fea790c6c0bc9bde8da76699b362b0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4a4fd117bed0660cad51948625d21804.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4bc9e5bfba7637590f93e37d8ae09c3d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4c01a579e049c58e742cd6e4d245367e.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4c590b9288813caaa9d606ded77eff3d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4d01314118b7c260bc27f335d6c5b1ed.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4d543f3ee268f1dd87a65c307021b406.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4dae1fe1c506dabddeb9ba331d03c052.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4dc6bd2ec30ad1fc39dfe71da43ca462.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4e04c8ff089bda8a9ae0b319636addaf.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/4fdc232c4b9b99a09866cb9cfe65a523.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/50d0e13ef8b57aeffe21176481a3a0f7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/535d1e9d9c5fa428d1bb32169379833d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/539fd5893fa191f5fd29327d941e59b2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/547bd9736a48952b2a50bc7af1ceb545.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/555535683857a690386cc96d452b5f77.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/561845b844657829a373659774fa46d4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/572b57078c2c48e08252e59f1c21565a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/583363c04bc1fd1b565c5b9916308a85.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/58eca4ba30db9d0cfcb9311e43716c18.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/59409ba1b0d86cb1288d3acc3e7fc923.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/5b1d4626de6a82fa0c17eeea7e421da4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/5c7d2790bf02b7bcb878334779c8d394.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/5dd60fcb8b690939880e69bca2ba47f9.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/5f3c122a4cdbf990a00937ecb57b72b4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/5f9f6fd21c8993581d0ce9bb92abcb42.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/5fa1c75410c8339da466e2e545fa7969.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/60d7180c557179bc929c6aeeb5e3b616.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/626ceec3f6f2e037710db0a833cbfc04.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/630efe7501e9ba774669f0f3a0b8180d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/660a54290ef162dadf68b4412d136504.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/66317a32ec80cc2baf627ac9a5a5d945.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/673cf669e19bd0edf9e79e2c7ce33f31.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6911844a8d9f926063a4cacb2bf1c56b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/69ed25a48571d24fa3e6c9e2970b5ae4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6b23f36c3198d6da318715f37e3e9914.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6bf951543e3d19e34487b933d97fc853.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6c1ce4bde844d748edc6d0d5a0f3a489.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6d502664443030422556e620db64e4af.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6dc5e1c96ecb04739c9da47e6f96fee5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/6ef9e15352aa1c7fd4835d70f3137e8f.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/700720a5771cabd30ea5b6a6e48bea53.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/702b36a9efbb2d743c3f63366cc56161.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/70d2b683bed41e725e383ab7169c156e.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/721d7ccd5a41e5dee80c8cd0b3a171b0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/72f166484d122324e3b83791a9e835b6.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/735cc2ab0fc1bcfa36c65bdd50227707.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/73fa62dab835ace27714f3a7259015c0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/74aecf7a0ba0921edfd50f967cd2a7c2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/751f833b9d8655e1ca52e75a0e86bc97.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/75c17522ff7e3aa1aadf5b687248512d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/760082171fd2a89f70e9046bbd92487b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/7745a355e0ab3d13230864b5120e44ab.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/7d383fab4f0f68eb1b7c666e46311629.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/7f61892d25d13215aaa7cdb450d940d8.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/802d7e1aee7af0e5444496be1b9ef0bc.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/82525d4514bd0976af0abb7e5c180409.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/839ee43d33fe13dcf4d88ccb520434aa.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/83e9273d98e60e27c0af3063f1ecb54b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/8414a7cf4be82f4860fa01c04a857be9.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/848d4f38003888ccbc246724054eeb99.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/84dd911193f0b022fb46b23ce3968a4c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/85d4010710707963cd7a34834c2319c3.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/8611e2cabf82790d504cbcc0c18a0965.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/86429849e35eea9989043f35f80535a0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/872aec3fd8d3a6c8bd70b63b83863132.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/885d83cc4716840a01646c750c12b23c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/88883bf5ec4f68d74f59a4284264d473.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/8897959364e134c669e03d48d2c4d034.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/88ac4bdb824df70cf61c93e25decd0ac.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/8950064fb09f6394348c4092d13b5eb4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/8fe745de680f2c8dad9f30975a6486ad.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/907df59fd8f1915a8d4406b2b45cdf92.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9095cf6cccf52cbf062f6486ba864293.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/926ea338cd92dae274cc1d78dc56ffd4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/94648626b01609cd79e084b6434493db.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9544922fd7fab4611eb7bcf46dceb1bc.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/971741cb6cb6db4ce125c8c6425c6e79.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9836dd62f66d63a65e85172098bd7ac8.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/98a7efab67a0c22c8e635d8ac0dcfe08.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/98cac2af31b4b550b6392cf2db08acb0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9917e11d7503fe90a55af2090f23578a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9a47bbf89faee11d8e3c7fa48856f43f.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9a797873aa89964c19c492c34f052bfc.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9b3eec1bc467db3cf98e1e19f16d5153.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9c6f44768526804c6adc1982b339c719.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9ca335cac57d4a71c762b8a12a515515.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9d80ef73fca219a9fa15dbf3d0c72cf3.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9e73c88d94d9d98e93021674e04e1627.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9e9d2e5278b587eb7e3ea68deb20ca4c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/9fb9db03a236eeb7f44d793764ba987b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a035c82fd3fa682fbe0da9bcdc0b8406.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a12107ef000e40903ba8b8ae32f9bc85.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a2636962eee6a1cc0ced740a75fbfa82.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a3b0efa84cff70a981c6334b9bf8fc6b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a46a52cf8b11da73a1dc996dc7984ead.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a4df468c1ce2ce98586b93b41c8b862c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a602143b52f4d31d9a0579a7f2b9cb94.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a665886c3cdf958232db043ee2e754d5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a6b8cbe69675741a005d5e21a5ae00f9.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a6ccdb0d28466522b09a8c44171e94e2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/a744f6b3bef69096b6b560a2f89863e5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ab903b971f20744cfc8047211f94bb67.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/aba3b3479f70055101930ab17138a45f.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ac8d6c4ebb3b03fa2e426855044dc929.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/aecef1617fb35f10a03f50aa9f457554.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/aeedcbbef0b996157b733bdb2a604c34.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/b51ec50982a99e549268c2e9d571b9fb.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/b65c377900ead4c2e44ec8284e57a45b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/b776ee10f13eac4e79be47ea8d4038e8.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/b8881d7c1ccea6809f631517c59d0c44.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/b9a8f3c674855e9cdfd4a4f9f3390151.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/bb003df92b986022ba99079d7923e3cf.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/bc019cc08d867d0a0ba1e926141ee56b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/bcc9b55356d8858742e7be6d6149cb58.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/bd23918df2c82dadd98b525d56d31a44.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/bde9df337696f9670391961931608e32.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/be13b2c112013630d576495c10824430.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/be6f7655412a96e21d8bfb294aea0a23.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/bf2ba1b158ac76a574338f3401cfbc54.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c0911e657a50aab2e1a8d2120de51350.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c15ab7c3cc1cc25e4c62fdfeb84e443d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c18a94003da113ae2d02eba19b995c09.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c2d79702e93068d26bcaec4cc9e5e340.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c4f172a19489b6c2e637d1bf23544da8.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c5e69a7f8da172164af58098bd8e2848.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c63c222d193f274d34c2e313730eb859.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/c653b469ef7f42ff7efe0961a9612b68.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ca530a2f2615865b78d0c192407c5c67.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/cacac73858e0305fa25bdb9d7e46ef68.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/cce4d31456cfed0154c25b434b445b06.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/cd5cdfdc4b1102e13240a0d311a68016.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/cd9bffc53871d6ae485ca7ddbf6465e1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/cef63be0bda88101697e2c654d0ac918.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d00ed59f9d0ab592f16ce012a54dbd64.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d0757e13498f69134f6d738feb567950.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d0fc28efca4163116fcd7bd76b29b1c9.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d19f86b48fc2d4af5d96faf7fc7e8e9a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d2ee6b4a03cad5c54a93e59b6bb93139.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d35a5c0dd177e9082d6de4c585f77136.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d6bf4d975a3619c283f97693dce62828.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d6d5cf97302b1b1b9cff1a060aecccce.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d76d1fef6f281907f11824ee9b382785.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/d88a88f0767b53721d90013c4c99b7a2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/da53947c711876ff1afc45967142e6f3.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/db882ec1671e39b1572ba7d0855f2580.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/dbe1781f6b6f4d16b536507e78c38584.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/dc02ee8c74c0725d143c9748730f77f1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/dc32ebee020c3865f0323f60b5c61f0c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/dca3238764ff91efb542dfc3c64f2dcc.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/dcf74a3e19af3f9e35db7b9ce4ba50c4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/dcf8427451f8cb50a8fdc1114368aab0.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e15de151141fcb73aab1f67a4aa90ca7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e16e7e1135b10b606d118b3b380a61ed.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e1e5545dbc2181c32e1997bc56cb7900.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e28d53b1d466d8869829846c80c9ecd1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e3acecbf7474b2a9de864f20cf27ffa3.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e5c417422e7374e05a4a3b96cc409c17.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/e7fb0a46713278eb25f3cdb34814130c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ea7e63f20bf0a68c9200911a497bf9b5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/eb6f03d5b0f45419f53c92bc3b106443.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ed0ff72d782a0f962f2f8b31bd5ad1e7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ed6a90bc6c258cd760f437d71a8b347c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ed9f64cb82e72274cf60d98e49fb3515.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ee78054e40b72c19502ff6df47ebe01f.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/eeafdd0e96b33ff4a1052334899d6e58.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/eeb9fc73d4a887c470013c135dadee2d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ef1907badc2dd352011c1c833a1ccda5.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/ef7a9e1e049e04fe267d2d34399b607b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/efa093506aa5e55b92e4c527265c5a35.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/f0bee47d242310ee80fe0aac38bd01b1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/f16775f92d2ceb742700d31c1596b215.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/f215159d483676d10da70acc10705253.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/f31bdd375bdf167ec173cfd72aeda467.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/f4b87c294cad8c3c99c88339f9a57f70.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/f7288b17c64e32a941b34cd65f0f9291.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/fb5298e8916e61e929bc054ef046e7e7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/fc189963fd25385b371044afd1edc538.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/fc516b538f18abb138a6dbd6acbe988b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/.cache/babel-loader/fd11de151c5ebdb3791aeb6ee5336a01.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/devScripts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/history.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/plugin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/pluginConfig.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/pluginRegister.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/polyfill.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/core/umiExports.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-helmet/exports.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-initial-state/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-initial-state/exports.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-initial-state/models/initialState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-initial-state/runtime.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-model/Provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-model/runtime.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-model/useModel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/plugin-request/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/.umi/umi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/services/login.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/_variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/qrcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/qrcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/yay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/yurencloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AdminLayout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AdminSider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AdminSider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Agreement.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Agreement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/ArticleList.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/ArticleList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Back.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CatalogList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Edit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HomeLayout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HomeSider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Navigator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Navigator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/adminSider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/models/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Article.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Article.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Examlple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/IndexPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/IndexPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/IndexPage.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Login.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Profile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Profile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/Register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/admin/Admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/admin/AdminArticleList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/admin/AdminArticleUpdate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/admin/AdminCatalogList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/home/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/home/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/services/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/utils/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/test.js" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Edit.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/src/components/Edit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +370,10 @@
     <option name="x" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1p00yIiRMfga9cH1nWsOsj31hCJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -93,26 +423,43 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="812dfa62-c407-4532-be0a-b210280a102e" name="Default" comment="" />
@@ -124,6 +471,7 @@
       <workItem from="1516611230308" duration="8000" />
       <workItem from="1517997187139" duration="120000" />
       <workItem from="1519694436719" duration="618000" />
+      <workItem from="1614304953983" duration="512000" />
     </task>
     <servers />
   </component>
@@ -153,12 +501,22 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client/src/components/Edit.js">

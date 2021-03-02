@@ -1,6 +1,6 @@
-package com.fc.api;
+package com.yurencloud.hb.api;
 
-import com.fc.request.Order;
+import com.yurencloud.hb.request.Order;
 import org.apache.http.HttpException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
